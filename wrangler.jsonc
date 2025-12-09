@@ -9,6 +9,11 @@
 	"compatibility_date": "2025-12-09",
 	"observability": {
 		"enabled": true
+	},
+	"vars": {
+		"RESEND_API_KEY": "re_D5JjumxP_Q1HJvKPoGe6SYN7fMeyWX3ug",
+		"EMAIL_TO_ADDRESS": "christianbiedetattoos@gmail.com",
+		"EMAIL_FROM_ADDRESS": "no-reply@christianbiede.com"
 	}
 	/**
 	 * Smart Placement
